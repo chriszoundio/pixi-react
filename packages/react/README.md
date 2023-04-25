@@ -27,6 +27,8 @@
 
 Pixi React is an open-source, production-ready library to render high performant PIXI applications in React.
 
+
+
 ## News!
 
 We're delighted to announce Pixi React v7.0.0, the first major release since making it an official Pixi package!
